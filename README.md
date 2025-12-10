@@ -1,5 +1,3 @@
-# Final_Year_Project6
-
 # 🛡️ PSL Logic-Driven Digital Twin Model of MiCOM P642 Transformer Protection Relay
 
 A full digital twin of the MiCOM P642 transformer protection relay integrating:
@@ -151,9 +149,3 @@ Validated against:
 
 
 
-✅ A **short README** for your portfolio  
-✅ A **GitHub banner image**  
-✅ A **badge section** (Python, MATLAB, ML, Modbus, etc.)
-
-Just tell me.
-```
